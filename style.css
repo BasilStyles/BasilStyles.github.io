@@ -49,7 +49,11 @@ body {
     align-items:center;
     justify-content: center;
     min-height: 100vH;
+    font-family: sans-serif;
+
 }
 .titlebox {
     text-align: center;
+    font-size: 3rem;
+    
 }
