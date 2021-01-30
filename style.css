@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Solid&display=swap');
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -49,11 +51,11 @@ body {
     align-items:center;
     justify-content: center;
     min-height: 100vH;
-    font-family: sans-serif;
+    font-family: "londrina solid",cursive;
 
 }
 .titlebox {
     text-align: center;
     font-size: 3rem;
-    
+
 }
