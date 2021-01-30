@@ -47,7 +47,6 @@ table {
 body {
     background-color:#595959;
     color: #F2F2F2;
-    
     font-family: "londrina solid",cursive;
 
 } 
@@ -65,5 +64,10 @@ body {
 
 a:link, a:visited, a:hover, a:active {
     color:#5A189A;
+    text-decoration: none;
+}
+
+.homelink:link, .homelink:visited, .homelink:hover, .homelink:active {
+    color:#F2F2F2;
     text-decoration: none;
 }
