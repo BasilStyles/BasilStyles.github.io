@@ -47,12 +47,15 @@ table {
 body {
     background-color:#595959;
     color: #F2F2F2;
+    
+    font-family: "londrina solid",cursive;
+
+} 
+.mainpage {
     display:flex;
     align-items:center;
     justify-content: center;
     min-height: 100vH;
-    font-family: "londrina solid",cursive;
-
 }
 .titlebox {
     text-align: center;
