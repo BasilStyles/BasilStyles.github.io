@@ -44,5 +44,9 @@ table {
 /*My code Start here*/
 body {
     background-color:#595959;
-    color: #F2F2F2
+    color: #F2F2F2;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    min-height: 100vH;
 }
