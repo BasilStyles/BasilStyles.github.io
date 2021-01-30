@@ -59,3 +59,8 @@ body {
     font-size: 3rem;
 
 }
+
+a:link, a:visited, a:hover, a:active {
+    color:#5A189A;
+    text-decoration: none;
+}
